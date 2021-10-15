@@ -5,7 +5,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-print(BeautifulSoup)
 webpage = requests.get("https://content.codecademy.com/courses/beautifulsoup/cacao/index.html")
 
 soup = BeautifulSoup(webpage.content, "html.parser")
