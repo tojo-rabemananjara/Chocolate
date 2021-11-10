@@ -1,4 +1,4 @@
-# Chocolate Scraping w Beautiful Soup
+# Chocolate
 ## Intorduction
 The goal of this project was to practice using BeautifulSoup, matplotlib.pyplot, pandas, and numpy to analyze the data on a webpage listing different chocolate ratings, cocoa percentages, sources, and other information.
 ## Technology
